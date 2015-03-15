@@ -44,3 +44,14 @@ James Picard is born and raised on a farm in Roscia somewhat near the castle. Wh
 * #### Woods
 
   The woods are the center of gameplay. This is where James is lost. When James is exploring, chances are he is in the Woods. The Old Hut is in the heart of the forest.
+  
+## Characters
+* Alpha [Bandit Leader]
+* Alistar, Axwell, and Arcane [Bandit Posse]
+* David Picard [Father]
+* Harold Godfrey IV [King]
+* Anne Picard [Mother]
+* Maxwell Fenton [Old Man]
+* Diana Godfrey [Queen]
+* Akan Hisa [Tribal Leader]
+* James Picard [You]
