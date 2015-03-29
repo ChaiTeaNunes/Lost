@@ -53,5 +53,5 @@ James Picard is born and raised on a farm in Roscia somewhat near the castle. Wh
 * Anne Picard [Mother]
 * Maxwell Fenton [Old Man]
 * Diana Godfrey [Queen]
-* Akan Hisa [Tribal Leader]
+* Alkan Hisa [Tribal Leader]
 * James Picard [You]
